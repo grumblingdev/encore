@@ -1,3 +1,11 @@
 {
+<<<<<<< HEAD
     "C_Cpp.errorSquiggles": "disabled"
+=======
+    "files.associations": {
+        "stdio.h": "c",
+        "limits.h": "c",
+        "posix1_lim.h": "c"
+    }
+>>>>>>> 64e1b77265cb2ffaa81c500a30a0a25492c46fb3
 }
