@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "limits.h": "c",
+        "posix1_lim.h": "c"
     }
 }
